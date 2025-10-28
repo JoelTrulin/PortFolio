@@ -9,27 +9,27 @@ st.set_page_config(
 
 course = [
           ('https://www.hackerrank.com/certificates/iframe/1d7bb3580d5e',
-           'Certification\Hackerrank.pdf'
+           'Certification/Hackerrank.pdf'
            ),
 
           ('https://www.coursera.org/account/accomplishments/certificate/481KQ3W82CDW',
-           'Certification\Coursera Neural Networks and Deep Learning 481KQ3W82CDW.pdf'
+           'Certification/Coursera Neural Networks and Deep Learning 481KQ3W82CDW.pdf'
            ),
 
           ('https://www.coursera.org/account/accomplishments/certificate/46YK7RLR5X80',
-           'Certification\Coursera Improving Deep Neural Networks_ Hyperparameter Tuning, Regularization and Optimization 46YK7RLR5X80.pdf'
+           'Certification/Coursera Improving Deep Neural Networks_ Hyperparameter Tuning, Regularization and Optimization 46YK7RLR5X80.pdf'
            ),
 
           ('https://www.coursera.org/account/accomplishments/certificate/VMCASYAVPHEO',
-           'Certification\Coursera Structuring Machine Learning Projects VMCASYAVPHEO.pdf'
+           'Certification/Coursera Structuring Machine Learning Projects VMCASYAVPHEO.pdf'
            ),
 
           ('https://www.coursera.org/account/accomplishments/certificate/TVYZK73E92Z0',
-           'Certification\Coursera Convolutional Neural Networks TVYZK73E92Z0.pdf'
+           'Certification/Coursera Convolutional Neural Networks TVYZK73E92Z0.pdf'
            ),
 
           ('https://www.coursera.org/account/accomplishments/certificate/LC6F6XLH2HQV',
-           'Certification\Coursera Sequence Models LC6F6XLH2HQV.pdf'
+           'Certification/Coursera Sequence Models LC6F6XLH2HQV.pdf'
            )
           ]
 

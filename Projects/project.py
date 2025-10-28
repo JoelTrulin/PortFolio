@@ -51,7 +51,7 @@ project_data = [
         "desc": "Built an AI that listens to a song, detects mood/emotion using audio embeddings, and generates matching AI-art visuals using a diffusion model or style-transfer network.  \n"
                 "Tech Stack:  \n"
                 "librosa · PyTorch · Diffusion / Stable Diffusion · CLIP embeddings · Streamlit UI",
-        "img": "Projects\music mood.png"
+        "img": "Projects/music mood.png"
     }
 ]
 
