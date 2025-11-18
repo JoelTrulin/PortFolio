@@ -2,6 +2,7 @@
   "events": [
     {
       "start_date": { "year": "2023", "month": "07"},
+      "end_date": { "year": "2025", "month": "11"},
       "text": {
         "headline": "Senior Software Engineer AI/ML",
         "text": "Designed a custom vision model for frame selection from camera, achieving 95% accuracy in detecting teeth aligners on a challenging dataset. Worked on transformer based multimodel like audio, text, vision capabilities. PICOS elements & Entity Extraction using spacy & GPT models in health care. Intelligent in selecting the optimal server for model training and inference with regard to cost efficiency."
