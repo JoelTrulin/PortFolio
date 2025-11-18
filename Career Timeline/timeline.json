@@ -1,23 +1,7 @@
 {
   "events": [
     {
-      "start_date": { "year": "2024", "month": "07"},
-      "end_date": { "year": "2025", "month": "11"},
-      "text": {
-        "headline": "Freelance ML & AI Research Collaborator",
-        "text": "20+ practical AI projects in Machine Learning, Computer Vision, and Generative AI. Assisted in developing research prototypes and experimental pipelines using TensorFlow and Python. Contributed to model design, data preprocessing, and evaluation for academic publications and theses. Explored novel approaches in deep learning architectures and generative models (GANs, diffusion models, etc.)."
-      },
-      "media": {
-        "url": "https://images.icon-icons.com/2699/PNG/512/freelancer_logo_icon_171122.png",
-        "caption": "Self-Employed",
-        "credit": "Freelance",
-        "thumbnail": "https://images.icon-icons.com/2699/PNG/512/freelancer_logo_icon_171122.png"
-      },
-      "group": "Work"
-    },
-    {
       "start_date": { "year": "2023", "month": "07"},
-      "end_date": { "year": "2024", "month": "06"},
       "text": {
         "headline": "Associate Software Engineer AI/ML",
         "text": "Designed a custom vision model for frame selection from camera, achieving 95% accuracy in detecting teeth aligners on a challenging dataset. Worked on transformer based multimodel like audio, text, vision capabilities. PICOS elements & Entity Extraction using spacy & GPT models in health care. Intelligent in selecting the optimal server for model training and inference with regard to cost efficiency."

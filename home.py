@@ -33,7 +33,7 @@ st.markdown("---")
 # ---------- ABOUT ----------
 st.header("About Me")
 st.write("""
- Results-driven Machine Learning and Computer Vision Engineer over 3+ years of experience in Data
+ Results-driven Machine Learning and Computer Vision Engineer over 4+ years of experience in Data
  Exploration, Image Processing, Object Detection, Segmentation, Classification & Regression,
  Anomaly Detection, GAN, VAE, Speech to Text, Multimodel, Statistical modeling, DVC, MLflow.
  Proficient in developing scalable solutions using AWS S3, TensorFlow, PyTorch, OpenCV, Pandas,
