@@ -2,7 +2,7 @@
   "events": [
     {
       "start_date": { "year": "2025", "month": "12"},
-      "end_date": {"year": "Present"},
+      "end_date": {"year": "-1"},
       "text": {
         "headline": "Assistant Manager",
         "text": "Deploying end-to-end scalable application in AI/ML | Gen AI | Agentic AI."
