@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "start_date": { "year": "2025", "month": "12"},
+      "end_date": "Present",
+      "text": {
+        "headline": "Assistant Manager",
+        "text": "Deploying end-to-end scalable application in AI/ML | Gen AI | Agentic AI."
+      },
+      "media": {
+        "url": "https://cdn.freebiesupply.com/logos/large/2x/ey-logo-png-transparent.png",
+        "caption": "Data & Analytics",
+        "thumbnail": "https://cdn.freebiesupply.com/logos/large/2x/ey-logo-png-transparent.png"
+      },
+      "group": "Work"
+    },
+    {
       "start_date": { "year": "2024", "month": "07"},
       "end_date": { "year": "2025", "month": "11"},
       "text": {
